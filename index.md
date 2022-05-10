@@ -1,14 +1,19 @@
-## Who am I
+## Huntler
 
-Good question tho xD
+- Who am I
+- graduated math. & techn. softw. engineer
+- AI master student in maastricht netherlands
+- ...
 
-You can use the [editor on GitHub](https://github.com/Huntler/huntler.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Various deep learning task
+- weather forecasting
+- image stitching
+- brain singal detection and behaviour mapping
+- ...
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Test Area
 
 ```markdown
 Syntax highlighted code block
